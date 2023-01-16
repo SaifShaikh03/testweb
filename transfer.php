@@ -14,7 +14,7 @@
 		<header>
 			<div class="mainhead">
 				<div class="logo">
-					<img src="images/headpng.png">
+					<a href="index.php"><img src="images/logodef.png"></a>
 				</div>
 				<nav>
 					<a href="index.php">Home</a>

@@ -48,6 +48,10 @@ hr{
 	border: solid;
 	color: lavender;
 }
+.carousel-inner{
+	margin-top: 5rem;
+	align-items: center;
+}
   .carousel-inner img {
     width: 100%;
     height: 50vh;
@@ -140,4 +144,10 @@ form{
 }
 #submit-inp{
  padding: 100px;
+}
+form input{
+	width: 80px;
+}
+.contact textarea{
+  padding-left: 60px;
 }
